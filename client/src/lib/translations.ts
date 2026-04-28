@@ -143,7 +143,7 @@ export const translations = {
         },
         {
           title: "6. Contacto",
-          content: "Si tiene preguntas sobre esta Política de Privacidad, contáctenos en: connect@bleubull.tech"
+          content: "Si tiene preguntas sobre esta Política de Privacidad, contáctenos en: connect@bluebull.tech"
         }
       ]
     },
@@ -323,7 +323,7 @@ export const translations = {
         },
         {
           title: "6. Contato",
-          content: "Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato conosco em: connect@bleubull.tech"
+          content: "Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato conosco em: connect@bluebull.tech"
         }
       ]
     },
@@ -503,7 +503,7 @@ export const translations = {
         },
         {
           title: "6. Contact",
-          content: "If you have questions about this Privacy Policy, please contact us at: connect@bleubull.tech"
+          content: "If you have questions about this Privacy Policy, please contact us at: connect@bluebull.tech"
         }
       ]
     },

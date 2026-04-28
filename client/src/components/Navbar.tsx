@@ -78,7 +78,7 @@ export default function Navbar() {
             </button>
           </div>
 
-          <a href="mailto:connect@bleubull.tech">
+          <a href="mailto:connect@bluebull.tech">
             <Button 
               variant="outline" 
               className="border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300 neon-glow ml-4"
@@ -129,7 +129,7 @@ export default function Navbar() {
                     {item.name}
                   </button>
                 ))}
-                <a href="mailto:connect@bleubull.tech" className="w-full">
+                <a href="mailto:connect@bluebull.tech" className="w-full">
                   <Button className="w-full bg-primary text-primary-foreground hover:bg-primary/90">
                     {t.nav.access}
                   </Button>

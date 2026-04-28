@@ -63,7 +63,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.6, ease: "easeOut" }}
           className="flex flex-col sm:flex-row items-center justify-center gap-4"
         >
-          <a href="mailto:connect@bleubull.tech" className="w-full sm:w-auto">
+          <a href="mailto:connect@bluebull.tech" className="w-full sm:w-auto">
             <Button 
               size="lg" 
               className="bg-primary text-primary-foreground hover:bg-primary/90 text-lg px-8 h-14 rounded-full neon-glow w-full"

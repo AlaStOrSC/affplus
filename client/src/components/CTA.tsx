@@ -36,7 +36,7 @@ export default function CTA() {
           </p>
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
-            <a href="mailto:connect@bleubull.tech" className="w-full sm:w-auto">
+            <a href="mailto:connect@bluebull.tech" className="w-full sm:w-auto">
               <Button 
                 size="lg" 
                 className="bg-primary text-primary-foreground hover:bg-primary/90 text-lg px-10 h-16 rounded-full neon-glow w-full"

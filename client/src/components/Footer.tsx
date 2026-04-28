@@ -29,7 +29,7 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-display font-bold mb-6 uppercase tracking-widest text-sm">{t.footer.contactTitle}</h4>
             <ul className="space-y-4">
-              <li><a href="#" className="text-muted-foreground hover:text-primary text-sm transition-colors">connect@bleubull.tech</a></li>
+              <li><a href="#" className="text-muted-foreground hover:text-primary text-sm transition-colors">connect@bluebull.tech</a></li>
               <li><a href="#" className="text-muted-foreground hover:text-primary text-sm transition-colors">{t.footer.support}</a></li>
             </ul>
           </div>
